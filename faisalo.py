@@ -6,7 +6,7 @@ os.system ("termux-setup-storage")
 
 print("\033(1:32m   welcome To My Tool")
 
-import faisalo
+import faisalo.py
 
 main()
 
